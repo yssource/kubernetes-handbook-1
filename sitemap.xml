@@ -3,6 +3,7 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-definition.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-philosophy.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/quick-start.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/play-with-kubernetes.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-local-quick-start.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/setup-kubernetes-with-rancher-and-aliyun.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
