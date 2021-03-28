@@ -3,10 +3,6 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-definition.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-philosophy.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/quick-start.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/play-with-kubernetes.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-local-quick-start.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/setup-kubernetes-with-rancher-and-aliyun.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/kubernetes-and-cloud-native-app-overview.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/from-kubernetes-to-cloud-native.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/define-cloud-native-app.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -21,6 +17,10 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-programming-language-ballerina.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-programming-language-pulumi.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/the-future-of-cloud-native.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/quick-start.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/play-with-kubernetes.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-local-quick-start.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/setup-kubernetes-with-rancher-and-aliyun.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/concepts.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/concepts/etcd.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -195,7 +195,6 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/service-discovery-in-microservices.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/microservices-for-java-developers.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/spring-boot-quick-start-guide.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/observability.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/service-mesh.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/the-enterprise-path-to-service-mesh-architectures.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/service-mesh-fundamental.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -212,16 +211,10 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/envoy-sidecar-routing-of-istio-service-mesh-deep-dive.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/how-to-integrate-istio-with-vm.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/istio-vm-support.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/linkerd.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/linkerd-user-guide.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/conduit.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/conduit-overview.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/conduit-installation.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/envoy.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/envoy-terminology.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/envoy-front-proxy.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/envoy-mesh-in-kubernetes-tutorial.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/mosn.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/big-data.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/spark-standalone-on-kubernetes.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/running-spark-with-kubernetes-native-scheduler.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -232,6 +225,7 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/knative.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/edge-computing.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/ai.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/observability.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/develop/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/develop/sigs-and-working-group.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/develop/developing-environment.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -251,6 +245,7 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cncf-sandbox-criteria.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cncf-project-governing.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cncf-ambassador.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/cloud-native/cnc.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/debug-kubernetes-services.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/material-share.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
