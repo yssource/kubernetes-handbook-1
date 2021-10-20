@@ -264,7 +264,6 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/docker-best-practice.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/tricks.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/issues.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/kubernetes-changelog.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/summary-and-outlook.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/kubernetes-and-cloud-native-summary-in-2017-and-outlook-for-2018.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/appendix/kubernetes-and-cloud-native-summary-in-2018-and-outlook-for-2019.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
